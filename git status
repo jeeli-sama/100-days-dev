@@ -1,0 +1,42 @@
+[33mcommit 64ea57251ecef1abbe6979e02381ca42eb2b4b87[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: jeeli <debora.lo@protonmail.com>
+Date:   Wed Dec 8 21:03:47 2021 -0300
+
+    I don't know what really happened
+
+[33mcommit da312c12405fc5ef56bc10c316fb36a28b29b48e[m
+Merge: d4d92b6 8bdff70
+Author: jeeli <debora.lo@protonmail.com>
+Date:   Wed Dec 8 18:54:24 2021 -0300
+
+    Merge branch 'feature' into main
+
+[33mcommit 8bdff7008adac84165802aa89d59c8986a57b115[m
+Author: jeeli <debora.lo@protonmail.com>
+Date:   Wed Dec 8 18:53:14 2021 -0300
+
+    did yet again another change
+
+[33mcommit d4d92b6df3247c219965dfeec43cbbf2c7f04a21[m
+Author: jeeli <debora.lo@protonmail.com>
+Date:   Wed Dec 8 18:50:53 2021 -0300
+
+    pudated text.txt again
+
+[33mcommit 591bcce681258f39b06e32717ee7596cbbfc9474[m
+Author: jeeli <debora.lo@protonmail.com>
+Date:   Wed Dec 8 18:42:51 2021 -0300
+
+    added new feature
+
+[33mcommit 390a375eff892d1b35244938d1a10d68a035f02b[m
+Author: jeeli <debora.lo@protonmail.com>
+Date:   Wed Dec 8 18:06:00 2021 -0300
+
+    chenged git-test.txt and added a new second-commit.txt file
+
+[33mcommit 0abc68896864024c27b2e5343eef5c69cac6ef88[m
+Author: Debora <debora@ThinkPad-L14-Gen-1-5a0299f9.localdomain>
+Date:   Wed Dec 8 14:38:21 2021 -0300
+
+    added git-test.txt file
